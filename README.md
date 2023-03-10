@@ -16,7 +16,7 @@
 </div>
 
 <div>
-  <a href="https://www.linkedin.com/in/Paulo-Sérgio-dos-Anjosb64925236/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/paulo-sérgio-d-b64925236" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   <a href = "mailto:ngcpaulo1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
 </div>
     
