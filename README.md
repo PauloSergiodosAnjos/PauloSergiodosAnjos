@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Paulo Sérgio dos Anjos 👋
 
-- 🌱 Estudando Javascript
+- 👨‍💻 Desenvolvedor Front-end
 - 📫 Contate-me no email: ngcpaulo1@gmail.com
 
 <div>
