@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Paulo Sérgio dos Anjos 👋
 
 - 👨‍💻 Desenvolvedor Front-end
-- 📫 Contate-me no email: ngcpaulo1@gmail.com
+- 📫 Contate-me no email: paulosergiodosanjossilvafilho@gmail.com
 
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=PauloSergiodosAnjos&show_icons=true&theme=radical"/>
