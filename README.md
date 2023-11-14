@@ -4,7 +4,6 @@
 - 📫 Contate-me no email: paulosergiodosanjossilvafilho@gmail.com
 
 <div>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=PauloSergiodosAnjos&show_icons=true&theme=radical"/>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSergiodosAnjos&hide_progress=true)"/>
 </div>
     
@@ -13,7 +12,7 @@
   <img height="30cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="30cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img height="30cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-  <img height="30cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img height="30cm" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" />
 </div>
 
 <div>
